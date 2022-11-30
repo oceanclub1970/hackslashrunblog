@@ -1,7 +1,7 @@
 # Setup
 title:               HackSlashRun
 url:                 oceanclub1970.github.io
-baseurl:             '/hackslashrunblog'
+baseurl:             ""
 paginate:            5
 permalink:           pretty
 
